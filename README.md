@@ -15,5 +15,9 @@ javascript:var orders=[],length=0,current_length=0;!function(){function t(t,e){v
 
 到訂單總覽的頁面之後，按下書籤，完成後會下載`yoo.json`檔案
 
+*示意圖*
+
+![Imgur](http://i.imgur.com/wPOlu1K.png)
+
 
 最後，將檔案內容到<https://json-csv.com/>貼上，即可產生表格
