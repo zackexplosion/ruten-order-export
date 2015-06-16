@@ -1,5 +1,6 @@
 # ruten-order-export
 
+## 使用
 
 首先，新增一個書籤
 
@@ -21,3 +22,7 @@ javascript:var orders=[],length=0,current_length=0;!function(){function t(t,e){v
 
 
 最後，將檔案內容到<https://json-csv.com/>貼上，即可產生表格
+
+## 未來功能
+
+聽說要改成 chrome 外掛
